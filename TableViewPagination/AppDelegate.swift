@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TableViewPagination
 //
-//  Created by iMac on 9/12/19.
+//  Created by Ahmed Samir on 9/12/19.
 //  Copyright © 2019 Ahmed Samir. All rights reserved.
 //
 
